@@ -1,6 +1,7 @@
-#include <stio.h>
+#include<stio.h>
 /**
  * main - Entry point
+ *
  * Return: always 0 (Success)
  */
 int main(void)
