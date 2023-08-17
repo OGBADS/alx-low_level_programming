@@ -1,4 +1,4 @@
-/* main.h file*/
+/*main.h file*/
 #ifndef MAIN_H
 #define MAIN_H
 
