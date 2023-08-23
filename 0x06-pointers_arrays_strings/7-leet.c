@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - a function that encodes a string into 1337.
+ * *leet - a function that encodes a string into 1337.
  * @n: input value
  *
  * Return: n value
